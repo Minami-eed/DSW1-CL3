@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DSW-CL3-Project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DSW-CL3-Project.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\css\\estilos.css",
+      "PackagePath": "staticwebassets\\css\\estilos.css"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\adobo.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\adobo.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\aji-de-gallina.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\aji-de-gallina.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\alfajores.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\alfajores.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\anticuchos.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\anticuchos.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\arroz-con-camarones.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\arroz-con-camarones.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\arroz-con-pollo.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\arroz-con-pollo.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\carapulcra.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\carapulcra.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\cau-cau.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\cau-cau.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\causa-rellena.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\causa-rellena.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\ceviche.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\ceviche.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\choros-a-la-chalaca.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\choros-a-la-chalaca.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\cuy-chactado.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\cuy-chactado.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\jalea.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\jalea.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\juane.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\juane.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\kam-lu-wantan.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\kam-lu-wantan.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\leche-de-tigre.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\leche-de-tigre.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\lomo-saltado.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\lomo-saltado.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\mazamorra-morada.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\mazamorra-morada.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\pachamanca.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\pachamanca.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\papa-a-la-huancaina.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\papa-a-la-huancaina.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\papa-rellena.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\papa-rellena.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\picarones.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\picarones.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\pollo-a-la-brasa.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\pollo-a-la-brasa.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\rocoto-relleno.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\rocoto-relleno.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\salchipapas.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\salchipapas.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\seco-de-carne.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\seco-de-carne.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\tacacho.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\tacacho.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\tacu-tacu.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\tacu-tacu.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\tequenos.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\tequenos.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\imagenes\\tiradito.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\tiradito.jpg"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\GitHub Repository\\DSW-CL3-Solution\\DSW-CL3-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DSW-CL3-Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DSW-CL3-Project.props",
+      "PackagePath": "build\\DSW-CL3-Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DSW-CL3-Project.props",
+      "PackagePath": "buildMultiTargeting\\DSW-CL3-Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DSW-CL3-Project.props",
+      "PackagePath": "buildTransitive\\DSW-CL3-Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

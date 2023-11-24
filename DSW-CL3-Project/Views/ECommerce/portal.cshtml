@@ -1,0 +1,36 @@
+﻿@model IEnumerable<DSW_CL3_Project.Models.ProductoModel>
+
+<link href="~/css/estilos.css" rel="stylesheet" />
+
+<h2>Portal de Ventas: Tienda</h2>
+
+<div>
+    <a asp-action="Carrito" asp-controller="ECommerce" class="btn btn-primary">Carrito</a>
+</div>
+
+<div class="portal">
+    @foreach (var item in Model)
+    {
+        <div class="registro">
+            <em>Codigo:</em>@Html.DisplayFor(modelItem => item.IdProducto)
+            <br />
+            <em>Nombre:</em>@Html.DisplayFor(modelItem => item.Nombre)
+            <br />
+            <em>Descripcion:</em>@Html.DisplayFor(modelItem => item.Descripcion)
+            <br />
+            <em>Marca:</em>@Html.DisplayFor(modelItem => item.DescripcionMarca)
+            <br />
+            <em>Categoria:</em>@Html.DisplayFor(modelItem => item.DescripcionCategoria)
+            <br />
+            <em>Precio:</em>@Html.DisplayFor(modelItem => item.Precio)
+            <br />
+            <em>Stock:</em>@Html.DisplayFor(modelItem => item.Stock)
+            <br />
+            <img src="@Url.Content(string.Format("~/imagenes/{0}.jpg", item.RutaImagen))" />
+            <br />
+            <em>Activo:</em>@Html.DisplayFor(modelItem => item.Activo)
+            <br />
+            @Html.ActionLink("Agregar", "Agregar", new { id = item.IdProducto })
+        </div>
+    }
+</div>
